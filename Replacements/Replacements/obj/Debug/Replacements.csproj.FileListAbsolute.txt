@@ -1,0 +1,14 @@
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\Replacements.exe.config
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\Replacements.exe
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\Replacements.pdb
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\KeithCR.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\CrystalDecisions.Shared.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\stdole.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\KeithCR.pdb
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\KeithCR.dll.config
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\obj\Debug\Replacements.exe
+c:\users\kmitchell\documents\visual studio 2017\Projects\Replacements\Replacements\obj\Debug\Replacements.pdb
